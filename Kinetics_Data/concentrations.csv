@@ -1,0 +1,13 @@
+Set,Run,AA,HCl,MB,Filename
+A,1,0.025,0.06,2E-5,SetArun1.csv
+A,2,0.025,0.06,1.5E-5,SetArun2.csv
+A,3,0.025,0.06,1.E-5,SetArun3.csv
+A,4,0.025,0.06,5.E-6,SetArun4.csv
+B,1,0.040,0.06,1.5E-5,SetBrun1.csv
+B,2,0.025,0.06,1.5E-5,SetBrun2.csv
+B,3,0.010,0.06,1.5E-5,SetBrun3.csv
+B,4,0.000,0.06,1.5E-5,SetBrun4.csv
+C,1,0.040,0.06,1.5E-5,SetCrun1.csv
+C,2,0.040,0.04,1.5E-5,SetCrun2.csv
+C,3,0.040,0.02,1.5E-5,SetCrun3.csv
+C,4,0.040,0.00,1.5E-5,SetCrun4.csv
