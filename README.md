@@ -29,6 +29,7 @@ PChemLab is a collection of Colab/Jupyter notebooks designed for the analysis an
   - `QuantumYield_Worksheet.ipynb`: Worksheet for quantum yield experiments.
 
 - **Vibrational-Rotational Spectroscopy**
+  - `RoVib_ModelingData.ipynb`:Contains data modeling for vibrational-rotational spectroscopy experiments.
   - `RoVib_Worksheet.ipynb`: Worksheet for vibrational-rotational spectroscopy experiments.
 
 ## Installation
