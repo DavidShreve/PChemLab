@@ -1,5 +1,4 @@
-Stock_nm,Stock_abs
-Wavelength (nm),Abs
+Wavelength (nm),Intensity (a.u.)
 698.9988403,0.004543738905
 697.991333,0.004057233222
 696.9835205,0.004166204482
